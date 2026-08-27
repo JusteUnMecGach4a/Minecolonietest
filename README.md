@@ -33,27 +33,32 @@ Tous ces mods doivent être installés dans votre dossier `mods` local :
 ### ⚙️ Mods requis (Côté Client & Serveur)
 * **MineColonies** (`minecolonies-1.1.1374-1.21.1-snapshot.jar`) - Mod de simulation de colonie.
 * **Create** (`create-1.21.1-6.0.10.jar`) - Mod d'ingénierie et d'automatisation mécanique.
-* **CreateColonies** (`createcolonies-2.0.6.jar`) - Intègre des éléments esthétiques et des blocs de Create dans les styles de construction de MineColonies.
-* **Create: Colony Logistics** (`create_colony_logistics-1.3.1.jar`) - Permet d'automatiser les échanges logistiques entre vos machines Create et vos colons.
+* **CreateColonies** (`createcolonies-2.0.6.jar`) - Intégration esthétique entre Create et MineColonies.
+* **Create: Colony Logistics** (`create_colony_logistics-1.3.1.jar`) - Automatisation des transports pour vos colons.
 * **Structurize** (`structurize-1.0.832-1.21.1.jar`) - Moteur de structures pour MineColonies.
-* **BlockUI** (`blockui-1.0.211-1.21.1-snapshot.jar`) - API d'interface utilisateur pour MineColonies.
-* **Domum Ornamentum** (`domum-ornamentum-1.0.234-snapshot-main.jar`) - Blocs de construction et décorations infinies.
+* **BlockUI** (`blockui-1.0.211-1.21.1-snapshot.jar`) - API d'interface de MineColonies.
+* **Domum Ornamentum** (`domum-ornamentum-1.0.234-snapshot-main.jar`) - Blocs décoratifs supplémentaires.
 * **Multi-Piston** (`multipiston-1.2.58-1.21.1.jar`) - Requis par Structurize.
-* **Vanilla Food Compatibility** (`minecoloniesvanillafoodcompat-1.0.0.jar`) - Intègre les aliments vanilla dans les chaînes de repas de MineColonies.
-* **ColonyWeb** (`colonyweb-1.21.1-neoforge-1.0.1.jar`) - Permet de lier le serveur au tableau de bord web.
-* **Craftable Crops** (`craftable_crops-1.0.0-neoforge-1.21.1.jar`) - Permet de fabriquer des graines et cultures plus facilement.
-* **MineColonies QoL** (`minecolonies_qol-1.0.0___1.1.921-1.21.1.jar`) - Améliorations de confort de jeu pour la colonie.
-* **JourneyMap** (`journeymap-neoforge-1.21.1-6.0.5.jar`) - Système de cartographie intégré.
-* **Kotlin for Forge** (`kotlinforforge-5.12.0-all.jar`) - Dépendance technique de développement.
-* **MCTier Library** (`mctier_engine-1.0.0.jar`) - Moteur interne de gestion des niveaux d'alimentation.
+* **Vanilla Food Compatibility** (`minecoloniesvanillafoodcompat-1.0.0.jar`) - Nourritures vanilla intégrées à la colonie.
+* **ColonyWeb** (`colonyweb-1.21.1-neoforge-1.0.1.jar`) - Plugin de liaison pour le dashboard web.
+* **Craftable Crops** (`craftable_crops-1.0.0-neoforge-1.21.1.jar`) - Recettes de graines simplifiées.
+* **MineColonies QoL** (`minecolonies_qol-1.0.0___1.1.921-1.21.1.jar`) - Améliorations de confort pour la colonie.
+* **JourneyMap** (`journeymap-neoforge-1.21.1-6.0.5.jar`) - Carte du monde et mini-carte.
+* **Kotlin for Forge** (`kotlinforforge-5.12.0-all.jar`) - Librairie de code Kotlin.
+* **MCTier Library** (`mctier_engine-1.0.0.jar`) - Moteur interne de nourriture.
 * **Just Enough Items (JEI)** (`jei-1.21.1-neoforge-19.27.0.340.jar`) - Affichage des recettes. *(Note : Cette version spécifique est requise pour éviter tout crash si vous jouez avec une manette)*.
+* **Jade** (`Jade-1.21.1-NeoForge-15.10.6.jar`) - Affichage d'informations de blocs en jeu.
+* **TownTalk** (`towntalk-1.2.0.jar`) - Amélioration des dialogues des colons/villageois.
+* **ColonyPathingEdition** (`colonypathingedition-1.21.1-1.0.5-ALPHA-12-fix-1.jar`) - Mod d'optimisation du pathfinding pour les citoyens.
+* **InfoPanel** (`InfoPanel-1.2 Neoforge 1.21.1.jar`) - Panneau d'informations et d'affichage d'HUD en jeu.
+* **SafePaths** (`safepaths-1.1.0.jar`) - Génération de chemins automatiques en marchant.
 
 ### 🎮 Mods recommandés (Client uniquement)
 * **Controllable** (`controllable-neoforge-1.21.1-0.25.4.jar`) - Permet de jouer nativement à la manette.
 * **Framework** (`framework-neoforge-1.21.1-0.13.11.jar`) - Requis pour le fonctionnement de *Controllable*.
 * **Embeddium** (`embeddium-1.0.15+mc1.21.1.jar`) - Optimisation majeure des performances graphiques.
 * **Mouse Tweaks** (`MouseTweaks-neoforge-mc1.21-2.26.1.jar`) - Tri et gestion facilitée de vos coffres.
-* **Configured** (`configured-neoforge-1.21.1-2.6.3.jar`) - Permet d'éditer la configuration des mods directement depuis le menu du jeu.
+* **Configured** (`configured-neoforge-1.21.1-2.6.3.jar`) - Interface pour éditer les options des mods en jeu.
 
 ---
 
