@@ -48,6 +48,7 @@ Tous ces mods doivent être installés dans votre dossier `mods` local :
 * **MCTier Library** (`mctier_engine-1.0.0.jar`) - Moteur interne de nourriture.
 * **Just Enough Items (JEI)** (`jei-1.21.1-neoforge-19.27.0.340.jar`) - Affichage des recettes. *(Note : Cette version spécifique est requise pour éviter tout crash si vous jouez avec une manette)*.
 * **Jade** (`Jade-1.21.1-NeoForge-15.10.6.jar`) - Affichage d'informations de blocs en jeu.
+* **MineColonies: Jade crops addon** (`mcjadecrops-1.1.1300.jar`) - Affichage du statut de pousse des plantes en regardant dessus.
 * **TownTalk** (`towntalk-1.2.0.jar`) - Amélioration des dialogues des colons/villageois.
 * **ColonyPathingEdition** (`colonypathingedition-1.21.1-1.0.5-ALPHA-12-fix-1.jar`) - Mod d'optimisation du pathfinding pour les citoyens.
 * **InfoPanel** (`InfoPanel-1.2 Neoforge 1.21.1.jar`) - Panneau d'informations et d'affichage d'HUD en jeu.
